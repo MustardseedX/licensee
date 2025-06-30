@@ -1,4 +1,4 @@
-FROM ruby:3.2.0
+FROM ruby:3.4.4
 
 WORKDIR /usr/src/app
 RUN git init
